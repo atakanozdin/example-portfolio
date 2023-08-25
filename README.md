@@ -1,31 +1,46 @@
 # Data Scientist
 
 #### Technical Skills:
-• Programming languages: Python, R, Java, C, C++, SQL
-• ML frameworks: Scikit-learn, Pandas, Numpy, Matplotlib, Keras, TensorFlow, OpenCV
-• DevOps: Git, Jenkins, FastAPI, Flask, Heroku, Kubernetes, Docker
-• Big data: Hadoop, Apache Spark, Google Cloud, MS Azure, AWS
-• Markups: HTML, CSS, XML, LATEX
-• Mechanics: Computational Fluid Dynamics, Heat Transfer, Thermodynamics, Material Science, Machine Design
-• Mechanical Software: Ansys Fluent, Ansys Mechanical, OpenFoam, SolidWorks, Fusion360
-• Strong background in: MLOps, Data Analytics, ML and DL, NLP, Computer Vision, and Image Processing
-Projects
+•**Programming languages:** Python, R, Java, C, C++, SQL\
+•**ML frameworks:** Scikit-learn, Pandas, Numpy, Matplotlib, Keras, TensorFlow, OpenCV\
+• **DevOps:** Git, Jenkins, FastAPI, Flask, Heroku, Kubernetes, Docker\
+• **Big data:** Hadoop, Apache Spark, Google Cloud, MS Azure, AWS\
+• **Markups:** HTML, CSS, XML, LATEX\
+• **Mechanics:** Computational Fluid Dynamics, Heat Transfer, Thermodynamics, Material Science, Machine Design\
+• **Mechanical Software:** Ansys Fluent, Ansys Mechanical, OpenFoam, SolidWorks, Fusion360\
+• **Strong background in:** MLOps, Data Analytics, ML and DL, NLP, Computer Vision, and Image Processing Projects\
 
 ## Education
-- B.S., Mechanical Engineering | Ege University at Izmir - Turkey (_Sept 2019 - Jun 2023_)								       		
+- B.S., Mechanical Engineering | Ege University (_Sept 2019 - Jun 2023_)								       		
 
 ## Work Experience
-**Data Scientist at Product Team @ Faradai & Reengen ( Nov 2022 - Present_)**
+**Data Scientist at Product Team @ Faradai & Reengen (_Nov 2022 - Present_)**
 - Extracting various insights from emission data and supporting ML processes within the Product Team to reduce carbon emissions.
 - Developing OpenAI API based AI Chatbot that coded with Python and TypeScript  and developing OCR Tool using AWS Cloud in Data Science Team 
 
-**Data Science Consultant @ Alkazar ( Jul 2022 - Present_)**
+**Data Science Consultant @ Alkazar (_Jul 2022 - Present_)**
 - The future energy production of wind turbines and solar panels was estimated as a time series with XGBoost and ARIMA models.
 - Streamlit was used to create the production forecast web app. Docker and Kubernetes were used for DevOps processes.
 
+**Jr. Data Scientist and Technical Writer @ GreenMusk (_Feb 2022 - May 2022_)**
+-  Worked on the Recommender System design, which matches mentors and mentees in GreenMusk’s MentorGem application
+-  Created AI-based technical documents for companies Streamset, Veritone and Innovaccer.
+-  Technical support was given to these companies on Machine Learning and Model Deployment.
+
+**IoT & Computer Vision Intern @ The Sparks Foundation (_Apr 2022 - May 2022_)**
+-  During the internship program, worked on 4 projects about Computer Vision. These projects are:
+-  Object Detection by using Optical Character Recognition, Color Identification in Images, Social Distancing Detector, and Detection of Face Mask
+
+**Data Scientist Intern @ Data Glacier (_Sept 2021 - Dec 2021_)**
+- Employed advanced Data Visualization, Data Analysing, and Forecasting methods for the ”G2M insight for Cab Investment firm” project.
+- Got introduced to various Model deployment frameworks and API such as Flask, Heroku, and Streamlit.
+- Successfully completed an end-to-end machine learning project from data cleaning to model deployment using Streamlit for the ”Used Car Price Prediction” project.
+-  Had a great time managing a group project that employed Unsupervised Machine Learning techniques such as Dimensionality Reduction and Clustering for a customer segmentation project.
+
+
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Autonomous Underwater Vehicle Circle Tracking (_Python, OpenCV, Argparse, PyMavlink_)
+[Project source code is here: https://github.com/atakanozdin/UAVCircleT racking](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
