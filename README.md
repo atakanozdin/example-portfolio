@@ -1,20 +1,27 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills:
+• Programming languages: Python, R, Java, C, C++, SQL
+• ML frameworks: Scikit-learn, Pandas, Numpy, Matplotlib, Keras, TensorFlow, OpenCV
+• DevOps: Git, Jenkins, FastAPI, Flask, Heroku, Kubernetes, Docker
+• Big data: Hadoop, Apache Spark, Google Cloud, MS Azure, AWS
+• Markups: HTML, CSS, XML, LATEX
+• Mechanics: Computational Fluid Dynamics, Heat Transfer, Thermodynamics, Material Science, Machine Design
+• Mechanical Software: Ansys Fluent, Ansys Mechanical, OpenFoam, SolidWorks, Fusion360
+• Strong background in: MLOps, Data Analytics, ML and DL, NLP, Computer Vision, and Image Processing
+Projects
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.S., Mechanical Engineering | Ege University at Izmir - Turkey (_Sept 2019 - Jun 2023_)								       		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Scientist at Product Team @ Faradai & Reengen ( Nov 2022 - Present_)**
+- Extracting various insights from emission data and supporting ML processes within the Product Team to reduce carbon emissions.
+- Developing OpenAI API based AI Chatbot that coded with Python and TypeScript  and developing OCR Tool using AWS Cloud in Data Science Team 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Science Consultant @ Alkazar ( Jul 2022 - Present_)**
+- The future energy production of wind turbines and solar panels was estimated as a time series with XGBoost and ARIMA models.
+- Streamlit was used to create the production forecast web app. Docker and Kubernetes were used for DevOps processes.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
