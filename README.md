@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist - ML Engineer - Mechanical Engineer
 
 #### Technical Skills:
 •**Programming languages:** Python, R, Java, C, C++, SQL\
@@ -39,29 +39,48 @@
 
 
 ## Projects
+**For my new project please check out my GitHub profile:** [My GitHub Page](https://github.com/atakanozdin)
 ### Autonomous Underwater Vehicle Circle Tracking (_Python, OpenCV, Argparse, PyMavlink_)
-[Project source code is here: https://github.com/atakanozdin/UAVCircleT racking](https://www.mdpi.com/1424-8220/22/8/3048)
+[Project source code](https://github.com/atakanozdin/UAV_Circle_Tracking)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+A deep learning model was developed with OpenCV algorithms so that the fully autonomous underwater vehicle can find and pass the circle under the water with the help of its camera. The model was trained with circle images and the model score was %89 success.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Fully Autonomy Maze Solving Robot (_C, C++, PIC16F_)
+[Project source code](https://github.com/atakanozdin/mazeSolvingRobot)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+A maze-solving robot that was developed to compete in the 12th METU Robot Olympics, which autonomously finds its way in the maze with its 2 motors and 3 distance sensors.
+
+
+### Flight Ticket Price Prediction (_Python, Jupyter Lab, Scikit-Learn, Seaborn, XGBoost_)
+[Project source code](https://github.com/atakanozdin/Flight_Price_Project)
+
+A machine learning model was developed that predicts airfare prices based on data from airports in Asian countries. The model was trained with 35 features, estimation was done with Regression Algorithms. The ML Model achieved %93 learning success and %87 learning success.
+
+
+### NLP Classification & Sentiment Analysis (_Python, Jupyter Lab, NLTK, Scikit-Learn, BeautifulSoup_)
+[Project source code](https://github.com/atakanozdin/NLP_Restaurant)
+
+Reviews about a restaurant were found on Yelp.com. According to the star values given to these comments, 3 groups were formed as good, normal and bad. The most common words in the groups were shown in the word cloud by using Sentiment Analysis.
+
+
+### Customer Segmentation K-Means (_Python, Jupyter Lab, Scikit-Learn Clustering, Seaborn, NumPy_)
+[Project source code](https://github.com/atakanozdin/Customer-Segmentation)
+
+An AI Model created with K-Means Clustering algorithms according to the frequency, recency, and money of the products sold in a market. How many clusters should be determined by the Silhouette Method and clustering was done with K-Means. Clusters were created according to the expenditures and %86 success was achieved.
+
+
+### Wind Turbines Energy Production Forecasting (_Python, VS Code, Pandas, XGBoost, ARIMA, Streamlit_)
+[Private project]
+
+Hourly data from the sites where the wind turbines are located were analyzed. A Time Series Regression model was established with ARIMA and XGBoost, and a model was developed that predicts production for each hour of the following days. The ML web app was created with Streamlit.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Courses
+- **Mastering Applied Data Science with Deep Learning Bootcamp** - Data Scientist Certificate - theDevMasters/Brandmman University, Jan 2021
+- **UC Berkeley - Intro2Astro - AI and Astronomy Summer School** - AI and Astronomy Certificate - University of California Berkeley Astronomy Dept., Jan 2021
+- **Machine Learning Operations (MLOps) Bootcamp** - ML Engineer Certificate - Veri Bilimi Okulu, Jun 2023
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
